@@ -1,4 +1,4 @@
-<h1>Privacy Policy</h1>
+<h1>Privacy Policy for LaparoscopiX</h1>
 <p>Last updated: April 17, 2024</p>
 <p>This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.</p>
 <p>We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of the <a href="https://www.privacypolicies.com/privacy-policy-generator/" target="_blank">Privacy Policy Generator</a>.</p>
@@ -65,7 +65,7 @@
 <h4>Information Collected while Using the Application</h4>
 <p>While using Our Application, in order to provide features of Our Application, We may collect, with Your prior permission:</p>
 <ul>
-<li>Pictures and other information from your Device's camera and photo library</li>
+<li>Pictures, videos, and other information from your Device's camera and photo library</li>
 </ul>
 <p>We use this information to provide features of Our Service, to improve and customize Our Service. The information may be uploaded to the Company's servers and/or a Service Provider's server or it may be simply stored on Your device.</p>
 <p>You can enable or disable access to this information at any time, through Your Device settings.</p>
