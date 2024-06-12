@@ -65,12 +65,12 @@
 <h4>Information Collected while Using the Application</h4>
 <p>While using Our Application, in order to provide features of Our Application, We may collect, with Your prior permission:</p>
 <ul>
-<li>Pictures, videos, and other information from your Device's camera and photo library</li>
+<li>Pictures, Videos, and other information from your Device's camera and photo library</li>
 </ul>
 <p>We use this information to provide features of Our Service, to improve and customize Our Service. The information may be uploaded to the Company's servers and/or a Service Provider's server or it may be simply stored on Your device.</p>
 <p>You can enable or disable access to this information at any time, through Your Device settings.</p>
 <h3>Use of Your Data</h3>
-<p>The Company may use the aforementioned Personal Data, Usage Data, and Information Collected while Using the Application for the following purposes:</p>
+<p>The Company may use the aforementioned Personal Data, Usage Data, Image Data, Video Data, and Information Collected while Using the Application for the following purposes:</p>
 <ul>
 <li>
 <p><strong>To provide and maintain our Service</strong>, including to monitor the usage of our Service.</p>
